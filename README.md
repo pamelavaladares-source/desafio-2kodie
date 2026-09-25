@@ -47,8 +47,7 @@ Foi utilizada a API pública e brasileira do **[ViaCEP](https://viacep.com.br)**
 
 ## 🔗 Links do Projeto
 * **Aplicação Publicada (Vercel):** [COLOQUE_O_LINK_DA_VERCEL_AQUI](COLOQUE_O_LINK_DA_VERCEL_AQUI)
-* **Repositório Original (GitHub):** [COLOQUE_O_LINK_DO_SEU_REPOSITORIO_AQUI](COLOQUE_O_LINK_DO_SEU_REPOSITORIO_AQUI)
-
+* **Repositório Original (GitHub):** https://github.com/pamelavaladares-source/desafio-2kodie
 ## 🤖 Informações sobre o uso de IA
 Inteligência Artificial foi utilizada de forma colaborativa durante o desenvolvimento deste projeto para as seguintes finalidades:
 * Estruturação arquitetural da separação de componentes React em pastas lógicas.
